@@ -3,7 +3,7 @@
       {
         "category_id": 1,
         "category_name": "Single Family Houses",
-        "image": "single_family.jpg",
+        "image": "https://i.ibb.co/ZXg5Kp9/new-single-family-home.png",
         "properties": [
           {
             "estate_title": "Beautiful Family Home in Suburbia",
@@ -32,7 +32,7 @@
       {
         "category_id": 2,
         "category_name": "Townhouses",
-        "image": "townhouse.jpg",
+        "image": "https://i.ibb.co/Qk95r5B/vecteezy-modern.png",
         "properties": [
           {
             "estate_title": "Modern Urban Townhouse",
@@ -61,7 +61,7 @@
       {
         "category_id": 3,
         "category_name": "Apartments",
-        "image": "apartment.jpg",
+        "image": "https://i.ibb.co/TBrn22Y/BL-Starling.png",
         "properties": [
           {
             "estate_title": "Modern City Apartment",
@@ -90,7 +90,7 @@
       {
         "category_id": 4,
         "category_name": "Vacation Rentals",
-        "image": "vacation_rental.jpg",
+        "image": "https://i.ibb.co/26dxQ5R/Vacation-Rental-800.png",
         "properties": [
           {
             "estate_title": "Beachfront Villa",
