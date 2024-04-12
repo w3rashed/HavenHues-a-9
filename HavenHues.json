@@ -1,0 +1,121 @@
+{
+    "categories": [
+      {
+        "category_id": 1,
+        "category_name": "Single Family Houses",
+        "image": "single_family.jpg",
+        "properties": [
+          {
+            "estate_title": "Beautiful Family Home in Suburbia",
+            "id": 101,
+            "segment_name": "Family Home",
+            "description": "A spacious single-family home with a large backyard and modern amenities.",
+            "price": 350000,
+            "status": "sale",
+            "area": "2500 sq ft",
+            "location": "Suburban Neighborhood",
+            "facilities": ["living room", "backyard", "garage"]
+          },
+          {
+            "estate_title": "Cozy Cottage by the Lake",
+            "id": 102,
+            "segment_name": "Lakefront Cottage",
+            "description": "Charming cottage with stunning lake views, perfect for a family getaway.",
+            "price": 2000,
+            "status": "rent",
+            "area": "1500 sq ft",
+            "location": "Lakefront",
+            "facilities": ["living room", "fireplace", "porch"]
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "category_name": "Townhouses",
+        "image": "townhouse.jpg",
+        "properties": [
+          {
+            "estate_title": "Modern Urban Townhouse",
+            "id": 201,
+            "segment_name": "Urban Living",
+            "description": "Sleek and stylish townhouse in the heart of the city, close to all amenities.",
+            "price": 500000,
+            "status": "sale",
+            "area": "1800 sq ft",
+            "location": "City Center",
+            "facilities": ["living room", "rooftop terrace", "attached garage"]
+          },
+          {
+            "estate_title": "Quaint Townhouse in Historic District",
+            "id": 202,
+            "segment_name": "Historic Charm",
+            "description": "Historic townhouse with original features and modern updates, located in a vibrant neighborhood.",
+            "price": 3000,
+            "status": "rent",
+            "area": "1600 sq ft",
+            "location": "Historic District",
+            "facilities": ["living room", "patio", "community garden"]
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "category_name": "Apartments",
+        "image": "apartment.jpg",
+        "properties": [
+          {
+            "estate_title": "Modern City Apartment",
+            "id": 301,
+            "segment_name": "City Living",
+            "description": "Contemporary apartment in a high-rise building with city views and amenities.",
+            "price": 2500,
+            "status": "rent",
+            "area": "1200 sq ft",
+            "location": "Downtown",
+            "facilities": ["open kitchen", "balcony", "fitness center"]
+          },
+          {
+            "estate_title": "Spacious Luxury Penthouse",
+            "id": 302,
+            "segment_name": "Luxury Living",
+            "description": "Expansive penthouse apartment with top-of-the-line finishes and panoramic skyline views.",
+            "price": 1000000,
+            "status": "sale",
+            "area": "3000 sq ft",
+            "location": "Exclusive Neighborhood",
+            "facilities": ["private terrace", "concierge service", "gym"]
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "category_name": "Vacation Rentals",
+        "image": "vacation_rental.jpg",
+        "properties": [
+          {
+            "estate_title": "Beachfront Villa",
+            "id": 401,
+            "segment_name": "Beach Retreat",
+            "description": "Luxurious villa steps away from the sandy beach, with private pool and ocean views.",
+            "price": 5000,
+            "status": "rent",
+            "area": "4000 sq ft",
+            "location": "Seaside",
+            "facilities": ["private pool", "beach access", "outdoor dining"]
+          },
+          {
+            "estate_title": "Mountain Cabin Getaway",
+            "id": 402,
+            "segment_name": "Mountain Escape",
+            "description": "Cozy cabin nestled in the mountains, perfect for a serene retreat with nature.",
+            "price": 3000,
+            "status": "rent",
+            "area": "2000 sq ft",
+            "location": "Mountain Range",
+            "facilities": ["fireplace", "deck", "hiking trails nearby"]
+          }
+        ]
+      }
+      
+    ]
+  }
