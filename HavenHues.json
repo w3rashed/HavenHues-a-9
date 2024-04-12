@@ -227,7 +227,7 @@
     {
       "category_id": 5,
       "category_name": "Student Housing",
-      "image": "",
+      "image": "https://i.ibb.co/0s5S7bZ/student1.jpg",
       "total_properties": 4,
       "properties": [
         {
@@ -283,7 +283,7 @@
     {
       "category_id": 6,
       "category_name": "Senior Living Communities",
-      "image": "",
+      "image": "https://i.ibb.co/0s5S7bZ/student1.jpg",
       "total_properties": 4,
       "properties": [
         {
