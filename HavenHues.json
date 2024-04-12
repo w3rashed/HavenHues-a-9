@@ -1,340 +1,341 @@
 {
-  "categories": [
-    {
-      "category_id": 1,
-      "category_name": "Single Family Houses",
-      "image": "https://i.ibb.co/ZXg5Kp9/new-single-family-home.png",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Beautiful Family Home in Suburbia",
-          "id": 101,
-          "segment_name": "Family Home",
-          "description": "A spacious single-family home with a large backyard and modern amenities.",
-          "price": 350000,
-          "status": "sale",
-          "area": "2500 sq ft",
-          "location": "Suburban Neighborhood",
-          "facilities": ["living room", "backyard", "garage"],
-          "image": "https://i.ibb.co/R7zNpBR/home1.jpg"
-        },
-        {
-          "estate_title": "Cozy Cottage by the Lake",
-          "id": 102,
-          "segment_name": "Lakefront Cottage",
-          "description": "Charming cottage with stunning lake views, perfect for a family getaway.",
-          "price": 2000,
-          "status": "rent",
-          "area": "1500 sq ft",
-          "location": "Lakefront",
-          "facilities": ["living room", "fireplace", "porch"],
-          "image": "https://i.ibb.co/Y0G41gB/home2.jpg"
-        },
-        {
-          "estate_title": "Family Home with Pool",
-          "id": 103,
-          "segment_name": "Poolside Living",
-          "description": "Spacious home with a swimming pool, ideal for outdoor entertainment.",
-          "price": 450000,
-          "status": "sale",
-          "area": "2800 sq ft",
-          "location": "Suburban Neighborhood",
-          "facilities": ["swimming pool", "patio", "garden"],
-          "image": "https://i.ibb.co/qCB4Prp/home3.jpg"
-        },
-        {
-          "estate_title": "Rustic Countryside Retreat",
-          "id": 104,
-          "segment_name": "Country Living",
-          "description": "Quaint farmhouse surrounded by fields and nature, perfect for a peaceful lifestyle.",
-          "price": 300000,
-          "status": "sale",
-          "area": "2000 sq ft",
-          "location": "Rural Area",
-          "facilities": ["front porch", "garden", "barn"],
-          "image": "https://i.ibb.co/jf8BGv9/home4.jpg"
-        }
-      ]
-    },
-    {
-      "category_id": 2,
-      "category_name": "Townhouses",
-      "image": "https://i.ibb.co/Qk95r5B/vecteezy-modern.png",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Modern Urban Townhouse",
-          "id": 201,
-          "segment_name": "Urban Living",
-          "description": "Sleek and stylish townhouse in the heart of the city, close to all amenities.",
-          "price": 500000,
-          "status": "sale",
-          "area": "1800 sq ft",
-          "location": "City Center",
-          "facilities": ["living room", "rooftop terrace", "attached garage"],
-          "image": "https://i.ibb.co/3rLp6kG/townhouse1.jpg"
-        },
-        {
-          "estate_title": "Quaint Townhouse in Historic District",
-          "id": 202,
-          "segment_name": "Historic Charm",
-          "description": "Historic townhouse with original features and modern updates, located in a vibrant neighborhood.",
-          "price": 3000,
-          "status": "rent",
-          "area": "1600 sq ft",
-          "location": "Historic District",
-          "facilities": ["living room", "patio", "community garden"],
-          "image": "https://i.ibb.co/7yqRXzx/townhouse2.jpg"
-        },
-        {
-          "estate_title": "Luxury Townhouse with River View",
-          "id": 203,
-          "segment_name": "Riverside Living",
-          "description": "Elegant townhouse overlooking the river, offering a luxurious lifestyle.",
-          "price": 700000,
-          "status": "sale",
-          "area": "2200 sq ft",
-          "location": "Waterfront",
-          "facilities": ["river view", "balcony", "private dock"],
-          "image": "https://i.ibb.co/khSH2hv/townhouse3.jpg"
-        },
-        {
-          "estate_title": "Townhouse with Courtyard Garden",
-          "id": 204,
-          "segment_name": "Garden Oasis",
-          "description": "Townhouse with a beautiful courtyard garden, perfect for relaxation and gatherings.",
-          "price": 3500,
-          "status": "rent",
-          "area": "1700 sq ft",
-          "location": "Urban Suburb",
-          "facilities": ["courtyard garden", "covered patio", "garage"],
-          "image": "https://i.ibb.co/0ZPpj4R/townhouse4.jpg"
-        }
-      ]
-    },
-    {
-      "category_id": 3,
-      "category_name": "Apartments",
-      "image": "https://i.ibb.co/TBrn22Y/BL-Starling.png",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Modern City Apartment",
-          "id": 301,
-          "segment_name": "City Living",
-          "description": "Contemporary apartment in a high-rise building with city views and amenities.",
-          "price": 2500,
-          "status": "rent",
-          "area": "1200 sq ft",
-          "location": "Downtown",
-          "facilities": ["open kitchen", "balcony", "fitness center"],
-          "image": "https://i.ibb.co/HnzrVfg/apartment1.jpg"
-        },
-        {
-          "estate_title": "Spacious Luxury Penthouse",
-          "id": 302,
-          "segment_name": "Luxury Living",
-          "description": "Expansive penthouse apartment with top-of-the-line finishes and panoramic skyline views.",
-          "price": 1000000,
-          "status": "sale",
-          "area": "3000 sq ft",
-          "location": "Exclusive Neighborhood",
-          "facilities": ["private terrace", "concierge service", "gym"],
-          "image": "https://i.ibb.co/mCZG3Fj/apartment2.jpg"
-        },
-        {
-          "estate_title": "Studio Apartment with City View",
-          "id": 303,
-          "segment_name": "City Skyline",
-          "description": "Compact studio apartment offering stunning views of the city skyline.",
-          "price": 1800,
-          "status": "rent",
-          "area": "800 sq ft",
-          "location": "Urban Center",
-          "facilities": ["city view", "modern kitchenette", "shared amenities"],
-          "image": "https://i.ibb.co/dMQG5Hh/apartment3.jpg"
-        },
-        {
-          "estate_title": "Apartment with Riverfront Balcony",
-          "id": 304,
-          "segment_name": "Riverfront Living",
-          "description": "Apartment featuring a balcony overlooking the river, providing a serene living experience.",
-          "price": 300000,
-          "status": "sale",
-          "area": "1500 sq ft",
-          "location": "Riverbank",
-          "facilities": ["river view balcony", "secure parking", "fitness center"],
-          "image": "https://i.ibb.co/7yKdtDP/apartment4.jpg"
-        }
-      ]
-    },
-    {
-      "category_id": 4,
-      "category_name": "Vacation Rentals",
-      "image": "https://i.ibb.co/26dxQ5R/Vacation-Rental-800.png",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Beachfront Villa",
-          "id": 401,
-          "segment_name": "Beach Retreat",
-          "description": "Luxurious villa steps away from the sandy beach, with private pool and ocean views.",
-          "price": 5000,
-          "status": "rent",
-          "area": "4000 sq ft",
-          "location": "Seaside",
-          "facilities": ["private pool", "beach access", "outdoor dining"],
-          "image": "https://i.ibb.co/wJtfjz2/vacation1.jpg"
-        },
-        {
-          "estate_title": "Mountain Cabin Getaway",
-          "id": 402,
-          "segment_name": "Mountain Escape",
-          "description": "Cozy cabin nestled in the mountains, perfect for a serene retreat with nature.",
-          "price": 3000,
-          "status": "rent",
-          "area": "2000 sq ft",
-          "location": "Mountain Range",
-          "facilities": ["fireplace", "deck", "hiking trails nearby"],
-          "image": "https://i.ibb.co/bRYX2Kd/vacation2.jpg"
-        },
-        {
-          "estate_title": "Lake House with Dock",
-          "id": 403,
-          "segment_name": "Lakeside Living",
-          "description": "Charming lake house with a private dock, offering water activities and relaxation.",
-          "price": 4000,
-          "status": "rent",
-          "area": "2500 sq ft",
-          "location": "Lakefront",
-          "facilities": ["lake view", "private dock", "patio"],
-          "image": "https://i.ibb.co/kchDWqg/vacation3.jpg"
-        },
-        {
-          "estate_title": "Cottage in the Woods",
-          "id": 404,
-          "segment_name": "Forest Hideaway",
-          "description": "Cozy cottage nestled in the forest, surrounded by nature's beauty and tranquility.",
-          "price": 2500,
-          "status": "rent",
-          "area": "1200 sq ft",
-          "location": "Woodland",
-          "facilities": ["woodland view", "porch swing", "fire pit"],
-          "image": "https://i.ibb.co/BfwP33z/vacation4.jpg"
-        }
-      ]
-    },
-    {
-      "category_id": 5,
-      "category_name": "Student Housing",
-      "image": "https://i.ibb.co/0s5S7bZ/student1.jpg",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Student Dormitory near Campus",
-          "id": 501,
-          "segment_name": "Campus Living",
-          "description": "Comfortable dormitory rooms for students, conveniently located near campus.",
-          "price": 1500,
-          "status": "rent",
-          "area": "800 sq ft",
-          "location": "Near Campus",
-          "facilities": ["study area", "shared kitchen", "laundry facilities"],
-          "image": "https://i.ibb.co/0s5S7bZ/student1.jpg"
-        },
-        {
-          "estate_title": "Student Apartment Complex",
-          "id": 502,
-          "segment_name": "Student Community",
-          "description": "Modern apartments designed for student living, with communal areas and social activities.",
-          "price": 2000,
-          "status": "rent",
-          "area": "1000 sq ft",
-          "location": "Student District",
-          "facilities": ["fitness center", "common room", "security"],
-          "image": "https://i.ibb.co/b7V7d2P/student2.jpg"
-        },
-        {
-          "estate_title": "Student Co-Living Space",
-          "id": 503,
-          "segment_name": "Shared Living",
-          "description": "Shared living space designed for students, promoting collaboration and community.",
-          "price": 1200,
-          "status": "rent",
-          "area": "700 sq ft",
-          "location": "University Area",
-          "facilities": ["shared kitchen", "study pods", "social lounge"],
-          "image": "https://i.ibb.co/7yMsHCd/student3.jpg"
-        },
-        {
-          "estate_title": "Student Studio Apartment",
-          "id": 504,
-          "segment_name": "Compact Living",
-          "description": "Compact studio apartment tailored for student needs, providing convenience and comfort.",
-          "price": 1700,
-          "status": "rent",
-          "area": "500 sq ft",
-          "location": "Student Hub",
-          "facilities": ["study area", "kitchenette", "private bathroom"],
-          "image": "https://i.ibb.co/c6D0f8P/student4.jpg"
-        }
-      ]
-    },
-    {
-      "category_id": 6,
-      "category_name": "Senior Living Communities",
-      "image": "https://i.ibb.co/0s5S7bZ/student1.jpg",
-      "total_properties": 4,
-      "properties": [
-        {
-          "estate_title": "Retirement Villa with Assisted Living",
-          "id": 601,
-          "segment_name": "Assisted Living",
-          "description": "Comfortable villa for seniors with various amenities and assisted living services.",
-          "price": 4000,
-          "status": "rent",
-          "area": "2000 sq ft",
-          "location": "Senior Community",
-          "facilities": ["medical care", "community activities", "meal service"],
-          "image": "https://i.ibb.co/QmZfdh3/senior1.jpg"
-        },
-        {
-          "estate_title": "Senior Apartment Complex",
-          "id": 602,
-          "segment_name": "Independent Living",
-          "description": "Modern apartments tailored for seniors, promoting independent living and social engagement.",
-          "price": 3500,
-          "status": "rent",
-          "area": "1200 sq ft",
-          "location": "Senior District",
-          "facilities": ["gym", "library", "shuttle service"],
-          "image": "https://i.ibb.co/1fMsryt/senior2.jpg"
-        },
-        {
-          "estate_title": "Senior Community Living",
-          "id": 603,
-          "segment_name": "Community Care",
-          "description": "Community living for seniors with care and support services, fostering a vibrant lifestyle.",
-          "price": 4500,
-          "status": "rent",
-          "area": "1800 sq ft",
-          "location": "Elderly Village",
-          "facilities": ["assisted living", "recreational activities", "catered meals"],
-          "image": "https://i.ibb.co/QkMD2cv/senior3.jpg"
-        },
-        {
-          "estate_title": "Senior Cottage Home",
-          "id": 604,
-          "segment_name": "Cottage Lifestyle",
-          "description": "Cozy cottage-style homes for seniors, providing a peaceful and intimate living environment.",
-          "price": 3000,
-          "status": "rent",
-          "area": "1000 sq ft",
-          "location": "Retirement Village",
-          "facilities": ["private garden", "porch", "on-site care"],
-          "image": "https://i.ibb.co/QmZfdh3/senior1.jpg"
-        }
-      ]
-    }
-  ]
-}
+    "categories": [
+      {
+        "category_id": 1,
+        "category_name": "Single Family Houses",
+        "image": "https://i.ibb.co/ZXg5Kp9/new-single-family-home.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Beautiful Family Home in Suburbia",
+            "id": 101,
+            "segment_name": "Family Home",
+            "description": "A spacious single-family home with a large backyard and modern amenities.",
+            "price": 350000,
+            "status": "sale",
+            "area": "2500 sq ft",
+            "location": "Suburban Neighborhood",
+            "facilities": ["living room", "backyard", "garage"],
+            "image": "https://i.ibb.co/R7zNpBR/home1.jpg"
+          },
+          {
+            "estate_title": "Cozy Cottage by the Lake",
+            "id": 102,
+            "segment_name": "Lakefront Cottage",
+            "description": "Charming cottage with stunning lake views, perfect for a family getaway.",
+            "price": 2000,
+            "status": "rent",
+            "area": "1500 sq ft",
+            "location": "Lakefront",
+            "facilities": ["living room", "fireplace", "porch"],
+            "image": "https://i.ibb.co/Y0G41gB/home2.jpg"
+          },
+          {
+            "estate_title": "Family Home with Pool",
+            "id": 103,
+            "segment_name": "Poolside Living",
+            "description": "Spacious home with a swimming pool, ideal for outdoor entertainment.",
+            "price": 450000,
+            "status": "sale",
+            "area": "2800 sq ft",
+            "location": "Suburban Neighborhood",
+            "facilities": ["swimming pool", "patio", "garden"],
+            "image": "https://i.ibb.co/qCB4Prp/home3.jpg"
+          },
+          {
+            "estate_title": "Rustic Countryside Retreat",
+            "id": 104,
+            "segment_name": "Country Living",
+            "description": "Quaint farmhouse surrounded by fields and nature, perfect for a peaceful lifestyle.",
+            "price": 300000,
+            "status": "sale",
+            "area": "2000 sq ft",
+            "location": "Rural Area",
+            "facilities": ["front porch", "garden", "barn"],
+            "image": "https://i.ibb.co/jf8BGv9/home4.jpg"
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "category_name": "Townhouses",
+        "image": "https://i.ibb.co/Qk95r5B/vecteezy-modern.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Modern Urban Townhouse",
+            "id": 201,
+            "segment_name": "Urban Living",
+            "description": "Sleek and stylish townhouse in the heart of the city, close to all amenities.",
+            "price": 500000,
+            "status": "sale",
+            "area": "1800 sq ft",
+            "location": "City Center",
+            "facilities": ["living room", "rooftop terrace", "attached garage"],
+            "image": "https://i.ibb.co/3rLp6kG/townhouse1.jpg"
+          },
+          {
+            "estate_title": "Quaint Townhouse in Historic District",
+            "id": 202,
+            "segment_name": "Historic Charm",
+            "description": "Historic townhouse with original features and modern updates, located in a vibrant neighborhood.",
+            "price": 3000,
+            "status": "rent",
+            "area": "1600 sq ft",
+            "location": "Historic District",
+            "facilities": ["living room", "patio", "community garden"],
+            "image": "https://i.ibb.co/7yqRXzx/townhouse2.jpg"
+          },
+          {
+            "estate_title": "Luxury Townhouse with River View",
+            "id": 203,
+            "segment_name": "Riverside Living",
+            "description": "Elegant townhouse overlooking the river, offering a luxurious lifestyle.",
+            "price": 700000,
+            "status": "sale",
+            "area": "2200 sq ft",
+            "location": "Waterfront",
+            "facilities": ["river view", "balcony", "private dock"],
+            "image": "https://i.ibb.co/khSH2hv/townhouse3.jpg"
+          },
+          {
+            "estate_title": "Townhouse with Courtyard Garden",
+            "id": 204,
+            "segment_name": "Garden Oasis",
+            "description": "Townhouse with a beautiful courtyard garden, perfect for relaxation and gatherings.",
+            "price": 3500,
+            "status": "rent",
+            "area": "1700 sq ft",
+            "location": "Urban Suburb",
+            "facilities": ["courtyard garden", "covered patio", "garage"],
+            "image": "https://i.ibb.co/0ZPpj4R/townhouse4.jpg"
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "category_name": "Apartments",
+        "image": "https://i.ibb.co/TBrn22Y/BL-Starling.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Modern City Apartment",
+            "id": 301,
+            "segment_name": "City Living",
+            "description": "Contemporary apartment in a high-rise building with city views and amenities.",
+            "price": 2500,
+            "status": "rent",
+            "area": "1200 sq ft",
+            "location": "Downtown",
+            "facilities": ["open kitchen", "balcony", "fitness center"],
+            "image": "https://i.ibb.co/HnzrVfg/apartment1.jpg"
+          },
+          {
+            "estate_title": "Spacious Luxury Penthouse",
+            "id": 302,
+            "segment_name": "Luxury Living",
+            "description": "Expansive penthouse apartment with top-of-the-line finishes and panoramic skyline views.",
+            "price": 1000000,
+            "status": "sale",
+            "area": "3000 sq ft",
+            "location": "Exclusive Neighborhood",
+            "facilities": ["private terrace", "concierge service", "gym"],
+            "image": "https://i.ibb.co/mCZG3Fj/apartment2.jpg"
+          },
+          {
+            "estate_title": "Studio Apartment with City View",
+            "id": 303,
+            "segment_name": "City Skyline",
+            "description": "Compact studio apartment offering stunning views of the city skyline.",
+            "price": 1800,
+            "status": "rent",
+            "area": "800 sq ft",
+            "location": "Urban Center",
+            "facilities": ["city view", "modern kitchenette", "shared amenities"],
+            "image": "https://i.ibb.co/dMQG5Hh/apartment3.jpg"
+          },
+          {
+            "estate_title": "Apartment with Riverfront Balcony",
+            "id": 304,
+            "segment_name": "Riverfront Living",
+            "description": "Apartment featuring a balcony overlooking the river, providing a serene living experience.",
+            "price": 300000,
+            "status": "sale",
+            "area": "1500 sq ft",
+            "location": "Riverbank",
+            "facilities": ["river view balcony", "secure parking", "fitness center"],
+            "image": "https://i.ibb.co/7yKdtDP/apartment4.jpg"
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "category_name": "Vacation Rentals",
+        "image": "https://i.ibb.co/26dxQ5R/Vacation-Rental-800.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Beachfront Villa",
+            "id": 401,
+            "segment_name": "Beach Retreat",
+            "description": "Luxurious villa steps away from the sandy beach, with private pool and ocean views.",
+            "price": 5000,
+            "status": "rent",
+            "area": "4000 sq ft",
+            "location": "Seaside",
+            "facilities": ["private pool", "beach access", "outdoor dining"],
+            "image": "https://i.ibb.co/wJtfjz2/vacation1.jpg"
+          },
+          {
+            "estate_title": "Mountain Cabin Getaway",
+            "id": 402,
+            "segment_name": "Mountain Escape",
+            "description": "Cozy cabin nestled in the mountains, perfect for a serene retreat with nature.",
+            "price": 3000,
+            "status": "rent",
+            "area": "2000 sq ft",
+            "location": "Mountain Range",
+            "facilities": ["fireplace", "deck", "hiking trails nearby"],
+            "image": "https://i.ibb.co/bRYX2Kd/vacation2.jpg"
+          },
+          {
+            "estate_title": "Lake House with Dock",
+            "id": 403,
+            "segment_name": "Lakeside Living",
+            "description": "Charming lake house with a private dock, offering water activities and relaxation.",
+            "price": 4000,
+            "status": "rent",
+            "area": "2500 sq ft",
+            "location": "Lakefront",
+            "facilities": ["lake view", "private dock", "patio"],
+            "image": "https://i.ibb.co/kchDWqg/vacation3.jpg"
+          },
+          {
+            "estate_title": "Cottage in the Woods",
+            "id": 404,
+            "segment_name": "Forest Hideaway",
+            "description": "Cozy cottage nestled in the forest, surrounded by nature's beauty and tranquility.",
+            "price": 2500,
+            "status": "rent",
+            "area": "1200 sq ft",
+            "location": "Woodland",
+            "facilities": ["woodland view", "porch swing", "fire pit"],
+            "image": "https://i.ibb.co/BfwP33z/vacation4.jpg"
+          }
+        ]
+      },
+      {
+        "category_id": 5,
+        "category_name": "Student Housing",
+        "image": "https://i.ibb.co/26dxQ5R/Vacation-Rental-800.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Student Dormitory near Campus",
+            "id": 501,
+            "segment_name": "Campus Living",
+            "description": "Comfortable dormitory rooms for students, conveniently located near campus.",
+            "price": 1500,
+            "status": "rent",
+            "area": "800 sq ft",
+            "location": "Near Campus",
+            "facilities": ["study area", "shared kitchen", "laundry facilities"],
+            "image": "https://i.ibb.co/0s5S7bZ/student1.jpg"
+          },
+          {
+            "estate_title": "Student Apartment Complex",
+            "id": 502,
+            "segment_name": "Student Community",
+            "description": "Modern apartments designed for student living, with communal areas and social activities.",
+            "price": 2000,
+            "status": "rent",
+            "area": "1000 sq ft",
+            "location": "Student District",
+            "facilities": ["fitness center", "common room", "security"],
+            "image": "https://i.ibb.co/b7V7d2P/student2.jpg"
+          },
+          {
+            "estate_title": "Student Co-Living Space",
+            "id": 503,
+            "segment_name": "Shared Living",
+            "description": "Shared living space designed for students, promoting collaboration and community.",
+            "price": 1200,
+            "status": "rent",
+            "area": "700 sq ft",
+            "location": "University Area",
+            "facilities": ["shared kitchen", "study pods", "social lounge"],
+            "image": "https://i.ibb.co/7yMsHCd/student3.jpg"
+          },
+          {
+            "estate_title": "Student Studio Apartment",
+            "id": 504,
+            "segment_name": "Compact Living",
+            "description": "Compact studio apartment tailored for student needs, providing convenience and comfort.",
+            "price": 1700,
+            "status": "rent",
+            "area": "500 sq ft",
+            "location": "Student Hub",
+            "facilities": ["study area", "kitchenette", "private bathroom"],
+            "image": "https://i.ibb.co/c6D0f8P/student4.jpg"
+          }
+        ]
+      },
+      {
+        "category_id": 6,
+        "category_name": "Senior Living Communities",
+        "image": "https://i.ibb.co/26dxQ5R/Vacation-Rental-800.png",
+        "total_properties": 4,
+        "properties": [
+          {
+            "estate_title": "Retirement Villa with Assisted Living",
+            "id": 601,
+            "segment_name": "Assisted Living",
+            "description": "Comfortable villa for seniors with various amenities and assisted living services.",
+            "price": 4000,
+            "status": "rent",
+            "area": "2000 sq ft",
+            "location": "Senior Community",
+            "facilities": ["medical care", "community activities", "meal service"],
+            "image": "https://i.ibb.co/QmZfdh3/senior1.jpg"
+          },
+          {
+            "estate_title": "Senior Apartment Complex",
+            "id": 602,
+            "segment_name": "Independent Living",
+            "description": "Modern apartments tailored for seniors, promoting independent living and social engagement.",
+            "price": 3500,
+            "status": "rent",
+            "area": "1200 sq ft",
+            "location": "Senior District",
+            "facilities": ["gym", "library", "shuttle service"],
+            "image": "https://i.ibb.co/1fMsryt/senior2.jpg"
+          },
+          {
+            "estate_title": "Senior Community Living",
+            "id": 603,
+            "segment_name": "Community Care",
+            "description": "Community living for seniors with care and support services, fostering a vibrant lifestyle.",
+            "price": 4500,
+            "status": "rent",
+            "area": "1800 sq ft",
+            "location": "Elderly Village",
+            "facilities": ["assisted living", "recreational activities", "catered meals"],
+            "image": "https://i.ibb.co/QkMD2cv/senior3.jpg"
+          },
+          {
+            "estate_title": "Senior Cottage Home",
+            "id": 604,
+            "segment_name": "Cottage Lifestyle",
+            "description": "Cozy cottage-style homes for seniors, providing a peaceful and intimate living environment.",
+            "price": 3000,
+            "status": "rent",
+            "area": "1000 sq ft",
+            "location": "Retirement Village",
+            "facilities": ["private garden", "porch", "on-site care"],
+            "image": "https://i.ibb.co/QmZfdh3/senior1.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
