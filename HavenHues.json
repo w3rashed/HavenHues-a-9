@@ -16,7 +16,7 @@
             "area": "2500 sq ft",
             "location": "Suburban Neighborhood",
             "facilities": ["living room", "backyard", "garage"],
-            "image": "https://i.ibb.co/R7zNpBR/home1.jpg"
+            "image": "https://i.ibb.co/59Jj1kr/Family-Home-1.webp"
           },
           {
             "estate_title": "Cozy Cottage by the Lake",
@@ -28,7 +28,7 @@
             "area": "1500 sq ft",
             "location": "Lakefront",
             "facilities": ["living room", "fireplace", "porch"],
-            "image": "https://i.ibb.co/Y0G41gB/home2.jpg"
+            "image": "https://i.ibb.co/6bHDqQr/Lakefront-Cottage-2.webp"
           },
           {
             "estate_title": "Family Home with Pool",
@@ -40,7 +40,7 @@
             "area": "2800 sq ft",
             "location": "Suburban Neighborhood",
             "facilities": ["swimming pool", "patio", "garden"],
-            "image": "https://i.ibb.co/qCB4Prp/home3.jpg"
+            "image": "https://i.ibb.co/gVqr3t5/Poolside-Living-3.webp"
           },
           {
             "estate_title": "Rustic Countryside Retreat",
@@ -52,7 +52,7 @@
             "area": "2000 sq ft",
             "location": "Rural Area",
             "facilities": ["front porch", "garden", "barn"],
-            "image": "https://i.ibb.co/jf8BGv9/home4.jpg"
+            "image": "https://i.ibb.co/4FMhrVm/Country-Living-4.webp"
           }
         ]
       },
